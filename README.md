@@ -1,7 +1,7 @@
 # Calculator
 
-ta aplikacjasluzy do obliczen mejsc zerowych funkcji kwadratowej, postaci ogolnej,kanonicznej oraz iloczynowej  funkcji kwadratowej)
+ta aplikacja sluzy do obliczen mejsc zerowych funkcji kwadratowej, postaci ogólnej,kanonicznej i iloczynowej  funkcji kwadratowej
 
-dziala ta aplikacja w taki sposob ze uzywajac wzorow na przeksztalcenie postaci funkcji kwadratowej lub pobieraniu jej elementow do obliczenia tego co chce uzytkownik
+działa ta aplikacja w taki sposob ze uzywajac wzorów na przekształcenie postaci funkcji kwadratowej lub pobieraniu jej elementów do obliczenia tego co chce użytkownik
 
-uzytkownik musi wprowadic jedna z postaci funkcji kwadratowej i co chce obliczyc z tego
+użytkownik musi wprowadzić jedna z postaci funkcji kwadratowej i co chce obliczyć z tego
