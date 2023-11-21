@@ -1,17 +1,22 @@
 import java.util.Scanner;
-public class Main {
+public class KanonicznaPostacKwadratowej {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Podaj współczynniki a, b i c funkcji kwadratowej ax^2 + bx + c:");
-        System.out.print("a: ");
-        double a = scanner.nextDouble()
-        System.out.print("b: ");
-        double b = scanner.nextDouble();
-        System.out.print("c: ");
-        double c = scanner.nextDouble();
-        double p = -b / (2 * a);
-        double delta = (b * b) - (4 * a *c)
-        double q = delta / (4 * a);
+        double a = collect_Input("a", scanner);
+        double b = collect_Input("b", scanner);
+        double c = collect_Input("c", scanner);
+        double p = calculate_P(a, b);
+        double q = calculate_Q(a, b, c);
         System.out.println("Postać kanoniczna funkcji kwadratowej: f(x) = " + a + "(x - " + p + ")^2 + " + q);
+    }
+    private static double collect_Input(String nazwa, Scanner scanner) {
+        System.out.print(nazwa + ": ");
+        return scanner.nextDouble();
+    }
+    private static double calculate_P(double a, double b) {
+        return -b / (2 * a);
+    }
+    private static double calculate_Q(double a, double b, double c) {
+        return (4 * a * c - b * b) / (4 * a);
     }
 }
