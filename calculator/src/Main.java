@@ -1,4 +1,4 @@
-aimport java.util.Scanner;
+import java.util.Scanner;
 public class KanonicznaPostacKwadratowej {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
