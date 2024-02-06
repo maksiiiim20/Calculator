@@ -4,10 +4,12 @@ ta aplikacja sluzy do ulatwienia i przyspieszanis prostych obliczen
 
 działa ta aplikacja w taki sposob ze uzytkownik podaje pierwsza liczbe i druga a pozniej wybiera dzialanie
 
+wprowadz pierwsza liczbe do gornego pola tekstowego, wprowadz druga liczbe do dolnego pola tekstowego, wybierz dzialanie ktore chcesz wykonac, zobacz wynik pod przyciskami dzialan
+
 ver 0.10 beta:
-  dodano mozliwosc obliczenia mnozenia
+  dodano mozliwosc mnozenia
 ver 0.11 beta:
-  podzielono kod na metody zeby ulepszyc czytelnosc kodu oraz zmieniono nazwa zmiennych na bardzie zrozumiale
+  podzielono kod na classy zeby ulepszyc czytelnosc kodu oraz zmieniono nazwy zmiennych na bardziej zrozumiale
 ver 0.12 beta:
   usuniento niepotrzebna metode
 ver 0.13 beta: 
