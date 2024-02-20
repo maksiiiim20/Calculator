@@ -6,6 +6,8 @@ działa ta aplikacja w taki sposob ze uzytkownik podaje pierwsza liczbe i druga 
 
 wprowadz pierwsza liczbe do gornego pola tekstowego, wprowadz druga liczbe do dolnego pola tekstowego, wybierz dzialanie ktore chcesz wykonac, zobacz wynik pod przyciskami dzialan
 
+zostaly prowadzone testy manualne. zadnych bledow nie znaleziono
+
 ver 0.10 beta:
   dodano mozliwosc mnozenia
 ver 0.11 beta:
