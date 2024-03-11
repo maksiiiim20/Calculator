@@ -8,15 +8,17 @@ wprowadz pierwsza liczbe do gornego pola tekstowego, wprowadz druga liczbe do do
 
 zostaly prowadzone testy manualne. zadnych bledow nie znaleziono
 
-ver 0.10 beta:
-  dodano mozliwosc mnozenia
-ver 0.11 beta:
-  podzielono kod na classy zeby ulepszyc czytelnosc kodu oraz zmieniono nazwy zmiennych na bardziej zrozumiale
-ver 0.12 beta:
-  usuniento niepotrzebna metode
-ver 0.13 beta: 
-  podzielono metode obliczenia na oddzielne
-ver 0.14 beta
-  uproszczono metode do obliczenia
-ver 0.15 beta
-  usuniento powtarzajace sie czesci kodu
+ver 0.10 beta:  
+  dodano mozliwosc mnozenia  
+ver 0.11 beta:  
+  podzielono kod na classy zeby ulepszyc czytelnosc kodu oraz zmieniono nazwy zmiennych  na bardziej zrozumiale  
+ver 0.12 beta:  
+  usuniento niepotrzebna metode  
+ver 0.13 beta:   
+  podzielono metode obliczenia na oddzielne  
+ver 0.14 beta:  
+  uproszczono metode do obliczenia  
+ver 0.15 beta:  
+  usuniento powtarzajace sie czesci kodu  
+ver 0.16 beta:  
+  ulepszenie interfejsu  
