@@ -20,5 +20,7 @@ ver 0.14 beta:
   uproszczono metode do obliczenia  
 ver 0.15 beta:  
   usuniento powtarzajace sie czesci kodu  
+ver 0.16 beta:   
+  naprawiono niektore bledy
 ver 0.16 beta:  
   ulepszenie interfejsu  
