@@ -4,9 +4,11 @@ ta aplikacja sluzy do ulatwienia i przyspieszanis prostych obliczen
 
 działa ta aplikacja w taki sposob ze uzytkownik podaje pierwsza liczbe i druga a pozniej wybiera dzialanie
 
-wprowadz pierwsza liczbe do gornego pola tekstowego, wprowadz druga liczbe do dolnego pola tekstowego, wybierz dzialanie ktore chcesz wykonac, zobacz wynik pod przyciskami dzialan
+najperw nacisnij na pierwsza liczbe pozniej znak oraz druga liczbe i nacisnij =
 
 zostaly prowadzone testy manualne. zadnych bledow nie znaleziono
+
+project uzywa java 1.8.0
 
 ver 0.10 beta:  
   dodano mozliwosc mnozenia  
@@ -24,3 +26,5 @@ ver 0.16 beta:
   ulepszenie interfejsu  
 ver 0.17 beta:  
   naprawiono niektore bledy 
+ver 1.0:         
+  interfejs jest staly oraz skalowalny, naprawiono 4 bledy
