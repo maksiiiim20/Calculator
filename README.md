@@ -25,6 +25,6 @@ ver 0.15 beta:
 ver 0.16 beta:  
   ulepszenie interfejsu  
 ver 0.17 beta:  
-  naprawiono niektore bledy 
+  naprawiono niektore bledy       
 ver 1.0:         
   interfejs jest staly oraz skalowalny, naprawiono 4 bledy
